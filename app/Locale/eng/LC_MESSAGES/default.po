@@ -1,0 +1,101 @@
+msgid "Главная"
+msgstr "Басты бет"
+
+msgid "Подать заявку"
+msgstr ""
+
+msgid "Купить квартиру"
+msgstr ""
+
+msgid "Жилые комплексы"
+msgstr ""
+
+msgid "Акции и новости"
+msgstr ""
+
+msgid "Карьера"
+msgstr ""
+
+msgid "Способы покупки"
+msgstr ""
+
+msgid "О компании"
+msgstr ""
+
+msgid "Банки Казахстана"
+msgstr ""
+
+msgid "Вопросы и ответы"
+msgstr ""
+
+msgid "Контакты"
+msgstr ""
+
+msgid "Все права защищены"
+msgstr ""
+
+msgid "Разработка сайта"
+msgstr ""
+
+msgid "Я хочу"
+msgstr ""
+
+msgid "Узнать о способах покупки"
+msgstr ""
+
+msgid "Узнать подробнее о компании"
+msgstr ""
+
+msgid "Новый ЖК уже в продаже"
+msgstr ""
+
+msgid "Наша миссия"
+msgstr ""
+
+msgid "Наш девиз"
+msgstr ""
+
+msgid "Ценности компании"
+msgstr ""
+
+msgid "Подробнее"
+msgstr ""
+
+msgid "Преимущества"
+msgstr ""
+
+msgid "О проекте"
+msgstr ""
+
+msgid "Скачать презентацию"
+msgstr ""
+
+msgid "Перейти на сайт ЖК"
+msgstr ""
+
+msgid "Рекомендуем"
+msgstr ""
+
+msgid "Новости"
+msgstr ""
+
+msgid "Поделиться"
+msgstr ""
+
+msgid "Дата"
+msgstr ""
+
+msgid "Должность"
+msgstr ""
+
+msgid "Тип занятости"
+msgstr ""
+
+msgid "Локация"
+msgstr ""
+
+msgid "Откликнуться"
+msgstr ""
+
+msgid "Способы покукпи"
+msgstr ""

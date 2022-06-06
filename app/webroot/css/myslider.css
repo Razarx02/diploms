@@ -1,0 +1,43 @@
+.myslider-wrapper {
+    display: flex;
+    width: 100%;
+    /* overflow: hidden; */
+    justify-content: center;
+    transition: all 0.6s ease;
+    /* transform: translateX(265px); */
+}
+.cards-parent {
+    width: 100%;
+    /* overflow: hidden; */
+}
+.myslider-wrapper-not  {
+    display: flex;
+    justify-content: space-around;
+}
+
+.margin-ani {
+    margin: 0px -20px;
+}
+.myslider__item {
+    /* width: 24%; */
+    position: relative;
+    cursor: pointer;
+    transition: all 0.6s ease;
+    transform: scale(0.9);
+}
+.z-fav {
+    /* order: z; */
+    z-index: 6;
+    transform: scale(1);
+}
+
+.myslider-center {
+    /* position: relative; */
+    /* order: -1; */
+    transform: scale(1);
+    z-index: 3; 
+}
+
+.last--item {
+    z-index: 2;
+}
